@@ -2,6 +2,9 @@
   "name": "full-arch-financing",
   "version": "1.0.0",
   "description": "Healthy Smiles full-arch in-house financing backend",
+  "engines": {
+    "node": "20.x"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
